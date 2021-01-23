@@ -1,6 +1,6 @@
 def counter(num):
     print("Function Starting")
-    for i in range(30):
+    for i in range(5):
         print('Before Yield')
         yield num
         num=num+1
