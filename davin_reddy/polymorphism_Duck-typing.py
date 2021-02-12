@@ -1,5 +1,3 @@
-
-
 class Pycharm:
     def execute(self):
         print("compling")
@@ -13,13 +11,13 @@ class MyEditor:
         print("Running")
 
 class Labtop:
-    def code(self,ide):
+    def code(self,ide):#ide: integrated development environment
         self.ide=ide.execute()
 lap1=Labtop()
 
 ide=Pycharm()
 lap1.code(ide)
-print("*************")
+print("++++++++++++")
 ide=MyEditor()
 lap1.code(ide)
 print("**************************")
