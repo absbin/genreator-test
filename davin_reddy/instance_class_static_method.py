@@ -34,6 +34,11 @@ class Student:
         print("this is Student class in  abc module")
 
 
+@staticmethod
+def total_info():
+    print("this is totalInfo in  abc module")
+
+
 s1 = Student(1, 2, 3)
 s2 = Student(4, 5, 6)
 print("m1:", s1.m1)
