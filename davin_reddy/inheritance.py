@@ -1,18 +1,18 @@
 class A:
     def feature1(self):
-        print("This is the Feature1.")
+        print("This is the Feature1A.")
     def feature2(self):
-        print("This is the Feature2.")
+        print("This is the Feature2A.")
 
 class B(A):# single=level inheritance
     def feature3(self):
-        print("This is the Feature3.")
+        print("This is the Feature3B.")
     def feature4(self):
-        print("This is the Feature4.")
+        print("This is the Feature4B.")
 
 class C(B):# Multi=level inheritance
     def feature5(self):
-        print("This is the Feature5.")
+        print("This is the Feature5C.")
 
 
 

@@ -13,5 +13,7 @@ class TopTen:
 
 itr=TopTen()
 print(next(itr))
+print(next(itr))
+print(next(itr))
 for i in itr:
-    print(i)
+    print(i,end=" , ")

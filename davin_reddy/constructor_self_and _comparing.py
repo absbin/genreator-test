@@ -15,8 +15,8 @@ class Computer:
 
 c1 = Computer()
 c2 = Computer()
-print(c1.name)
-print(c2.name)
+print(c1.name,c1.age)
+print(c2.name,c2.age)
 c2.update()
 if c1.compare(c2):
     print("They are same")

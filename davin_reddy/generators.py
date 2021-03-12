@@ -16,4 +16,4 @@ def topTen2():
         n+=1
 o2=topTen2()
 for i in o2:
-    print(i)
+    print(i,end=",")

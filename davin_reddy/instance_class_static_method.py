@@ -1,6 +1,4 @@
 a = 1  # gloal variable
-
-
 class Student:
     school = "Telusko"  # Static variable
     global a
@@ -43,7 +41,7 @@ s1 = Student(1, 2, 3)
 s2 = Student(4, 5, 6)
 print("m1:", s1.m1)
 print(s1.avg())
-s1.school = "Taha+++++++++"
+s1.school = "Taha>>>>>"
 print(s1.school)
 print(Student.get_school())
 print("-------------------------------------")
@@ -53,9 +51,10 @@ Student.school = "Abbas"
 print("OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO")
 print(s1.school)
 print(s2.school)
-print("***********" + s2.get_school())
+print("***********" + s1.get_school())##Nice, Call from classmethod.
 print("***********", s2.get_school())
 print(Student.get_school())
 print(Student.info())
+print("--------------------")
 print(s1)
 print(s1.info())

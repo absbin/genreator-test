@@ -8,6 +8,6 @@ def bubble_sort(lst):
     return lst
 
 
-lst = [2, 1, 4, 7, 8, 2, 3]
+lst = [2, 1, 4, 7, 8, 2, 3,10,12,15]
 lst_sorted = bubble_sort(lst)
 print("Sorted list is : {}".format(lst_sorted))
