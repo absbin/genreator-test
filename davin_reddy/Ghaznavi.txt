@@ -1,0 +1,127 @@
+Allah
+
+Blue print of queries in our Internet workshop 
+
+(1399-09-26)
+Wed., 16 December 2020 
+
+########  Papers:
+1. Google
+(DOI OR "digital object identifier") abstract (covid-19 OR covid19)
+(DOI OR "digital object identifier") abstract (covid-19 OR covid 19) remdesivir  japan
+
+1. Search.crossref.org
+
+3. Via Google Scholar
+
+
+Journal Finder:
+journal finder
+
+Paper/journal copyright policy resolver
+http://sherpa.ac.uk/romeo/search.php 
+
+
+Call for paper (CFP)
+www.wikicfp.org
+
+
+special issue
+special issue  call for paper vaccine 
+
+EndNote + Office 
+Enable bib export in scholar
+
+
+
+########  Thesis:
+FYI: etd OR handle OR dspace OR *space
+etd: Electronic theses and dissertations 
+handle: is a dspace unique number
+dspace: is a institutional repository for theses
+
+1. Via Google
+thesis submitted partial  (inurl:.edu OR inurl:.ac) (etd OR handle OR dspace OR *space)
+thesis submitted partial (etd OR handle OR dspace OR *space)  (2021 OR 2020 OR 2019 OR 2018 OR 2017 OR 2016)
+
+thesis submitted   (CMOS OR VLSI Transistor)  (2018 OR 2019 OR 2020 OR 2021)
+
+(thesis OR theses OR dissertation OR Mphil) submitted   (CMOS OR VLSI Transistor)  (2018 OR 2019 OR 2020 OR 2021)
+
+
+EQ:
+("technical reports" OR "TR") (inurl:.edu OR inurl:.ac) (CMOS OR VLSI Transistor)  (2018 OR 2019 OR 2020 OR 2021)
+
+
+
+thesis submitted partial
+ (etd OR handle OR dspace OR *space) 
+ (2021 OR 2020 OR 2019 OR 2018 OR 2017 OR 2016)
+
+
+
+
+########  Books:
+1. Via Archive
+site:archive.org 
+site:archive.org Folkscanomy
+site:archive.org DTIC
+site:archive.org Folkscanomy genetics
+
+2. Via books.google.com
+simply search in it
+genetics p53 
+
+3. Via DOI
+DOI: Digital Object identifier
+
+isbn doi site:springer.com
+isbn doi site:springer.com alzheimer 
+isbn doi site:springer.com alzheimer  (2020 OR 2019 OR 2018)
+-> https://www.springer.com/gp/book/9789811396359
+  -> DOI
+    10.1007/978-981-13-9636-6
+
+4. Manuscript + Minature
+www.hathitrust.org
+
+
+
+########  Software (developers)
+1. Google
+from github:
+curated list github.com
+curated list (github.com OR git OR gitlab) machine learning
+curated list github com machine learning
+curated list github com machine learning python tensorflow CNN DNN
+machine learning clustering SVM linear python network flows  image processing github.com
+A curated list github.com
+A curated list github.com genetic 
+-> https://github.com/cytodata/awesome-cytodata
+
+
+
+########  Course materials!!
+Via google
+(lecture OR course OR handout OR session) (inurl:.edu OR inurl:.ac)
+(lecture OR course OR handout OR session) (inurl:.edu OR inurl:.ac) molecular biology
+
+(inurl:.edu OR inurl:.ac OR site:de OR site:se) course (lecture OR handout) cell biology
+
+
+########  Visiting research positions and more
+(intitle:"research team" OR intitle:"research group") 
+(intitle:"research team" OR intitle:"research group") min-cost flow
+(intitle:"research team" OR intitle:"research group") Machine learning
+
+
+
+Sincerely,
+M. B. Ghaznavi-Ghoushchi
+https://www.linkedin.com/in/ghaznavi-ghoushchi/
+https://scholar.google.com/citations?hl=en&user=np4oczEAAAAJ&view_op=list_works&sortby=pubdate
+
+
+
+
+

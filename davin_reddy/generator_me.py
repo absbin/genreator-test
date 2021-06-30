@@ -7,10 +7,12 @@ def counter(num):
         print('After Yield')
 
 cnt=counter(3)
+print('cnt type is:',type(cnt))
+
 print(next(cnt))
 print(next(cnt))
 print(next(cnt))
 print(next(cnt))
 print(next(cnt))
-print(next(cnt))
+# print(next(cnt))
 print('Done')

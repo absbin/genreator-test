@@ -9,6 +9,12 @@ print("val arr1",arr1)
 print("val arr2",arr2)
 print("id arr1",id(arr1))
 print("id arr2",id(arr2))
+a=1
+b=a
+b=2
+print("a is",a)
+print("b is",b)
+
 print("******************")
 
 # shallow copy

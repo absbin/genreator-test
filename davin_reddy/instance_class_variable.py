@@ -1,5 +1,5 @@
 wheel = 13
-
+print(type(wheel))
 
 class Car:
 
