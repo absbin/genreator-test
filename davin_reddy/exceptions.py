@@ -1,6 +1,6 @@
 def main():
 	try:
-		for line in readfile('Ghaznavi.txt'): print(line)
+		for line in readfile('Ghaznavi1.txt'): print(line)
 	except IOError as e:
 		print('Could nt open the file : ' ,e)
 	except ValueError as e:
@@ -11,7 +11,7 @@ def readfile(filename):
 		fh=open(filename)
 		return fh.readlines()
 	else:
-		raise ValueError ('Wrong file extention')
+		raise ValueError ('Wrong file extention!')
 
 if __name__ == '__main__':
 	main()

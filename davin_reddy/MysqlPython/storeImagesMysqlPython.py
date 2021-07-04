@@ -10,12 +10,9 @@ MyDB = mysql.connector.connect(
 )
 
 MyCursor = MyDB.cursor()
-
-
 MyCursor.execute(
     "create table if not exists Images (id integer(45) not null auto_increment primary key,Photo longblob not null)"
 )
-
 
 def InsertBlob(FilePath):
     with open(FilePath, "rb") as File:
@@ -38,7 +35,7 @@ def RetrieveBlob(ID):
     im.show()
 
 
-print("1.Insert Image\n2.Read Image")
+print("1.Insert Image\n2.Read Image; \nPlease select 1 or 2.")
 MenuInput = input()
 if int(MenuInput) == 1:
     UserFilePath = input("Enter File path:")

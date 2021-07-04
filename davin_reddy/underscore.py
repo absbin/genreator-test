@@ -1,4 +1,3 @@
-
 feets=2
 wheats=50
 class Duck:	

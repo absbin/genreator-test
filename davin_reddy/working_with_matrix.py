@@ -1,16 +1,15 @@
 import numpy  as np
 #working_with_matrix
-arr1=np.array([[1,2,3,7,8,9]
-			  ,[4,5,6,22,33,44]])
+arr1=np.array([[1,2,3,7,8,9],[4,5,6,22,33,44]])
 
 print(arr1)
 
-print(arr1.ndim)
-print("*******",arr1.size)
+print('arr1.ndim:',arr1.ndim)
+print("******* arr1.size",arr1.size)
 arr2=arr1.flatten()
-print(arr2)
+print('arr1.flatten',arr2)
 arr3=arr2.reshape(2,2,3)
-print(arr3,"************")
+print("************arr2.reshape(2,2,3)",arr3)
 
 matrix1=np.matrix(arr1)
 print("matrix1 is :",matrix1)

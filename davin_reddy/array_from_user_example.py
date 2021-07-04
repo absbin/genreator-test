@@ -5,7 +5,7 @@ n=int(input("Enter the lentgth of aaray: "))
 
 arr= array('i',[])
 for i in range(n):
-    x=int(input("Enter the next array: "))
+    x=int(input("Enter the array  :  "))
     arr.append(x)
 
 print(arr)

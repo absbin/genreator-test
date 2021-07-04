@@ -11,7 +11,7 @@ print(vals.typecode)
 
 
 for i in range(5):
-    print(i,vals[i])
-
+    print(i,u'\u2192',vals[i],end=', ')
+print('\n')
 for i in range(5):
     print(vals3[i])
